@@ -1,0 +1,29 @@
+body {
+    background-color: grey;
+}
+nav {
+    background-color: black;
+}
+.nav-item {
+    display: inline-block;
+    padding: 20px;
+    background-color: orange;
+}
+.pet-info {
+    width: 30%;
+    background-color: white;
+    height: 500px;
+    float: left;
+    text-align: left;
+}
+.pet-details {
+    width: 70%;
+    background-color: darkcyan;
+    height: 500px;
+    float: right;
+
+}
+.pet-info img {
+    width: 220px;
+    height; 243px;
+}
